@@ -7,7 +7,6 @@ const heading = (
     </h1>
 );
 
-
 //React Functional Component
 const HeadingComponent = () => {
     return (
